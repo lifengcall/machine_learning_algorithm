@@ -4,26 +4,26 @@ You can use the [editor on GitHub](https://github.com/lifengcall/machine_learnin
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Machine learning common algorithm implementation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project is to show the foundamental code in python according to <<统计学习方法>> （李航著）
 
 ```markdown
-Syntax highlighted code block
+main algorithm
 
-# Header 1
-## Header 2
-### Header 3
+# perceptron
+# k mean
+# naive bayes
+# decision tree
+# logistic regression
+# Hidden Markov Model
+# SVM
+# conditional random field
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
